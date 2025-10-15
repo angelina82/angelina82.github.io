@@ -1,0 +1,16 @@
+---
+title: "Home"
+---
+
+# Welcome
+
+Hi, I’m **Marquita Angelina McKim** — a commercial strategist and executive leader with 15+ years of experience driving market growth, operational excellence, and data-informed decision-making across regulated and technical industries.  
+
+My work integrates **strategic planning, financial modeling, and forecasting** to align business goals with measurable results. I specialize in turning complex data and market intelligence into actionable strategies that accelerate growth, optimize resources, and strengthen performance across cross-functional teams.
+
+
+Explore the sections below to learn more:
+
+- 📘 [About Me](about.qmd) — professional background and leadership focus  
+- 📊 [Projects](projects.qmd) — selected forecasting and market analysis case work  
+- ✉️ [Contact](contact.qmd) — connect for professional collaborations or opportunities  

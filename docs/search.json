@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Role: Real Estate Market Strategist Stack: Python, Excel, Tableau\nSummary:\nPerformed a five-year housing-market analysis for the Cleveland, OH Metropolitan Area (2019–2024) to evaluate investment performance and long-term affordability.\nCalculated 7.13 % annual price CAGR and 41 % total appreciation, benchmarking home-price-to-income ratio = 2.4×, well below the U.S. average (4.1×).\nKey Insights:\n- Cleveland remains significantly more affordable than national markets despite steady appreciation.\n- Single-family homes dominate sales volume, indicating strong liquidity for small investors.\n- Affordability stress in Cleveland has risen modestly but remains half the national level, signaling balanced growth.\nDeliverables:\n- Interactive charts showing median sale price trend, property-type liquidity, and mortgage affordability.\n- Visual dashboard used for strategic due-diligence presentations and market briefings.\nView Analysis PDF ↗\n\n\n\nRole: Consultant | Stack: Python, Excel, Tableau\nSummary:\nDeveloped a client-facing dashboard to communicate billable-hour performance and return on investment (ROI) across active projects.\nThe dashboard was designed for transparency on hourly-based engagements, allowing clients to clearly understand how billed hours compared with historical forecasts.\nAnalytical Approach:\nIterated on a Python forecasting script that generated high- and low-end estimates for billable hours using historical hourly contract data only.\nFixed-price projects were excluded to maintain consistent modeling assumptions.\nForecast results were combined with real-time billing data to visualize client ROI and highlight variance within expected ranges.\nConfidentiality Note:\nThis visualization represents only the portion of the dashboard that can be publicly shared.\nDue to client data sensitivity, financial sections showing revenue & campaign dollar values were cropped out.\nThe full dashboard included additional panels tracking cost per acquisition, print ad lead scoring, and marketing ROI components that cannot be displayed publicly.\nKey Insights:\n- Enhanced transparency by showing clients how their billed hours align with modeled expectations.\n- Communicated ROI of 86.9% (zero as breakeven) clearly and visually.\n- Provided clients a clear view of billing variance without exposing sensitive financial data.\nDeliverables:\n- Updated Python forecast script for new hourly engagements.\n- Secure, client-facing dashboard visualizing ROI and billed-hour variance.\n\n\n\nClient Engagement Financial Performance Dashboard (Cropped View)\n\n\n\n\n\nRole: Consultant | Stack: Python, Excel, Tableau\nSummary:\nDeveloped a Monte Carlo simulation framework to evaluate the feasibility of Diatech’s 2025 revenue target of $4.4 M under varying ad-spend and market conditions.\nThe analysis quantified risk and established statistically realistic revenue ranges aligned with industry performance trends.\nAnalytical Approach:\n- Ran 100,000 simulations modeling ad spend from $120 K–$700 K with variable ROAS multipliers (2× – 4×) and external inputs such as supply-chain recovery, tariff impact, and special-market contributions.\n- The December 2024 model showed a mean outcome near $4.08 M and only a 19 % probability of hitting the $4.4 M goal, even under aggressive assumptions.\n- The May 2025 revision, updated with real-world performance and macro inputs, projected a mean of ≈ $3.21 M with 0 % probability of achieving the target.\n- The results demonstrated that the $4.4 M goal exceeded what was achievable within the industry’s historical CAGR and realistic ad-efficiency scenarios.\nKey Insights:\n- The company’s growth target required external acceleration beyond organic performance.\n- Statistical modeling provided leadership with evidence to recalibrate revenue goals to a $3.2 M–$3.3 M range.\n- Highlighted the value of simulation modeling for risk-adjusted strategic planning.\nDeliverables:\n- Python-based simulation scripts for ad-spend and revenue forecasting.\n- Executive summary visuals comparing December and May scenarios.\n\n\n\nDiatech 2025 Adjusted Forecast Comparison"
+  },
+  {
+    "objectID": "projects.html#cleveland-housing-affordability-portfolio-analysis",
+    "href": "projects.html#cleveland-housing-affordability-portfolio-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "Role: Real Estate Market Strategist Stack: Python, Excel, Tableau\nSummary:\nPerformed a five-year housing-market analysis for the Cleveland, OH Metropolitan Area (2019–2024) to evaluate investment performance and long-term affordability.\nCalculated 7.13 % annual price CAGR and 41 % total appreciation, benchmarking home-price-to-income ratio = 2.4×, well below the U.S. average (4.1×).\nKey Insights:\n- Cleveland remains significantly more affordable than national markets despite steady appreciation.\n- Single-family homes dominate sales volume, indicating strong liquidity for small investors.\n- Affordability stress in Cleveland has risen modestly but remains half the national level, signaling balanced growth.\nDeliverables:\n- Interactive charts showing median sale price trend, property-type liquidity, and mortgage affordability.\n- Visual dashboard used for strategic due-diligence presentations and market briefings.\nView Analysis PDF ↗"
+  },
+  {
+    "objectID": "projects.html#client-engagement-billable-hour-forecast-dashboard",
+    "href": "projects.html#client-engagement-billable-hour-forecast-dashboard",
+    "title": "Projects",
+    "section": "",
+    "text": "Role: Consultant | Stack: Python, Excel, Tableau\nSummary:\nDeveloped a client-facing dashboard to communicate billable-hour performance and return on investment (ROI) across active projects.\nThe dashboard was designed for transparency on hourly-based engagements, allowing clients to clearly understand how billed hours compared with historical forecasts.\nAnalytical Approach:\nIterated on a Python forecasting script that generated high- and low-end estimates for billable hours using historical hourly contract data only.\nFixed-price projects were excluded to maintain consistent modeling assumptions.\nForecast results were combined with real-time billing data to visualize client ROI and highlight variance within expected ranges.\nConfidentiality Note:\nThis visualization represents only the portion of the dashboard that can be publicly shared.\nDue to client data sensitivity, financial sections showing revenue & campaign dollar values were cropped out.\nThe full dashboard included additional panels tracking cost per acquisition, print ad lead scoring, and marketing ROI components that cannot be displayed publicly.\nKey Insights:\n- Enhanced transparency by showing clients how their billed hours align with modeled expectations.\n- Communicated ROI of 86.9% (zero as breakeven) clearly and visually.\n- Provided clients a clear view of billing variance without exposing sensitive financial data.\nDeliverables:\n- Updated Python forecast script for new hourly engagements.\n- Secure, client-facing dashboard visualizing ROI and billed-hour variance.\n\n\n\nClient Engagement Financial Performance Dashboard (Cropped View)"
+  },
+  {
+    "objectID": "projects.html#diatech-2025-monte-carlo-revenue-forecast-and-scenario-update",
+    "href": "projects.html#diatech-2025-monte-carlo-revenue-forecast-and-scenario-update",
+    "title": "Projects",
+    "section": "",
+    "text": "Role: Consultant | Stack: Python, Excel, Tableau\nSummary:\nDeveloped a Monte Carlo simulation framework to evaluate the feasibility of Diatech’s 2025 revenue target of $4.4 M under varying ad-spend and market conditions.\nThe analysis quantified risk and established statistically realistic revenue ranges aligned with industry performance trends.\nAnalytical Approach:\n- Ran 100,000 simulations modeling ad spend from $120 K–$700 K with variable ROAS multipliers (2× – 4×) and external inputs such as supply-chain recovery, tariff impact, and special-market contributions.\n- The December 2024 model showed a mean outcome near $4.08 M and only a 19 % probability of hitting the $4.4 M goal, even under aggressive assumptions.\n- The May 2025 revision, updated with real-world performance and macro inputs, projected a mean of ≈ $3.21 M with 0 % probability of achieving the target.\n- The results demonstrated that the $4.4 M goal exceeded what was achievable within the industry’s historical CAGR and realistic ad-efficiency scenarios.\nKey Insights:\n- The company’s growth target required external acceleration beyond organic performance.\n- Statistical modeling provided leadership with evidence to recalibrate revenue goals to a $3.2 M–$3.3 M range.\n- Highlighted the value of simulation modeling for risk-adjusted strategic planning.\nDeliverables:\n- Python-based simulation scripts for ad-spend and revenue forecasting.\n- Executive summary visuals comparing December and May scenarios.\n\n\n\nDiatech 2025 Adjusted Forecast Comparison"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Get in Touch\nThank you for visiting my portfolio. If you’re interested in connecting or collaborating, please reach out through one of the channel below.\n\n\nConnect\n\nGitHub: github.com/angelina82"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About You",
+    "section": "",
+    "text": "I’m Marquita Angelina McKim — a strategist and commercial leader who believes that data informs decisions, but people, instinct, and resilience ultimately drive transformation.\nOver more than 15 years in business and market strategy, I’ve worked across gaming, healthcare, professional services, and emerging technology—building growth frameworks, guiding teams, and helping organizations make smarter, more sustainable choices.\nI use data to guide decisions but not to define them. I use insight to determine how and where we can push boundaries and take calculated risks that move us beyond the expected. To be the exception, we must operate exceptionally.\n\n\n\nMy work focuses on connecting insight to execution, where strategy, performance, and human judgment intersect.\n\nStrategic foresight: I use scenario planning and risk modeling to prepare for multiple futures, not just the probable one.\n\nExecution through alignment: I bring clarity, structure, and accountability to complex goals, ensuring people understand both the what and the why and the how.\n\nLeadership through empowerment: I believe that empowered teams outperform managed ones. Developing people is as strategic as developing a plan.\n\nData with perspective: I leverage analytics to tell a story, but I respect that intuition, timing, and lived experience can bend even the cleanest regression line.\n\n\n\n\n\nI’m wasn’t supposed to be here, statistically; the odds were against me. Yet here I am, proof that variables change when people do. That’s why I lead with both logic and belief, because strategy without conviction is just arithmetic.\nTrue strategy lives in the balance between analysis and instinct, where the numbers point the way, but people decide the direction.\n\n\n\n\n\nStrategic & Scenario Planning\n\nRisk Management & Forecasting\n\nGo-to-Market & Commercial Strategy\n\nLeadership Development & Change Enablement\n\nMarket Intelligence & Decision Frameworks"
+  },
+  {
+    "objectID": "about.html#strategic-focus",
+    "href": "about.html#strategic-focus",
+    "title": "About You",
+    "section": "",
+    "text": "My work focuses on connecting insight to execution, where strategy, performance, and human judgment intersect.\n\nStrategic foresight: I use scenario planning and risk modeling to prepare for multiple futures, not just the probable one.\n\nExecution through alignment: I bring clarity, structure, and accountability to complex goals, ensuring people understand both the what and the why and the how.\n\nLeadership through empowerment: I believe that empowered teams outperform managed ones. Developing people is as strategic as developing a plan.\n\nData with perspective: I leverage analytics to tell a story, but I respect that intuition, timing, and lived experience can bend even the cleanest regression line."
+  },
+  {
+    "objectID": "about.html#guiding-philosophy",
+    "href": "about.html#guiding-philosophy",
+    "title": "About You",
+    "section": "",
+    "text": "I’m wasn’t supposed to be here, statistically; the odds were against me. Yet here I am, proof that variables change when people do. That’s why I lead with both logic and belief, because strategy without conviction is just arithmetic.\nTrue strategy lives in the balance between analysis and instinct, where the numbers point the way, but people decide the direction."
+  },
+  {
+    "objectID": "about.html#core-strengths",
+    "href": "about.html#core-strengths",
+    "title": "About You",
+    "section": "",
+    "text": "Strategic & Scenario Planning\n\nRisk Management & Forecasting\n\nGo-to-Market & Commercial Strategy\n\nLeadership Development & Change Enablement\n\nMarket Intelligence & Decision Frameworks"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome\nHi, I’m Marquita Angelina McKim — a commercial strategist and executive leader with 15+ years of experience driving market growth, operational excellence, and data-informed decision-making across regulated and technical industries.\nMy work integrates strategic planning, financial modeling, and forecasting to align business goals with measurable results. I specialize in turning complex data and market intelligence into actionable strategies that accelerate growth, optimize resources, and strengthen performance across cross-functional teams.\nExplore the sections below to learn more:\n\n📘 About Me — professional background and leadership focus\n\n📊 Projects — selected forecasting and market analysis case work\n\n✉️ Contact — connect for professional collaborations or opportunities"
+  }
+]

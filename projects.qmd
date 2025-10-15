@@ -1,0 +1,84 @@
+---
+title: "Projects"
+---
+
+# Selected Projects
+
+<!-- Each project should be short, visual, and professional. SAMPLE TEMPLATE BELOW -->
+
+::: {.project-card}
+## Cleveland Housing Affordability & Portfolio Analysis
+**Role:** Real Estate Market Strategist 
+**Stack:** Python, Excel, Tableau  
+
+**Summary:**  
+Performed a five-year housing-market analysis for the **Cleveland, OH Metropolitan Area (2019–2024)** to evaluate investment performance and long-term affordability.  
+Calculated **7.13 % annual price CAGR** and **41 % total appreciation**, benchmarking **home-price-to-income ratio = 2.4×**, well below the U.S. average (4.1×).  
+
+**Key Insights:**  
+- Cleveland remains significantly more affordable than national markets despite steady appreciation.  
+- Single-family homes dominate sales volume, indicating strong liquidity for small investors.  
+- Affordability stress in Cleveland has risen modestly but remains half the national level, signaling balanced growth.  
+
+**Deliverables:**  
+- Interactive charts showing median sale price trend, property-type liquidity, and mortgage affordability.  
+- Visual dashboard used for **strategic due-diligence presentations** and **market briefings**.  
+
+[View Analysis PDF ↗](assets/cleveland_affordability_analysis.pdf)
+:::
+
+::: {.project-card}
+## Client Engagement Billable-Hour Forecast Dashboard
+**Role:** Consultant | **Stack:** Python, Excel, Tableau
+
+**Summary:**  
+Developed a **client-facing dashboard** to communicate billable-hour performance and return on investment (ROI) across active projects.  
+The dashboard was designed for transparency on **hourly-based engagements**, allowing clients to clearly understand how billed hours compared with historical forecasts.
+
+**Analytical Approach:**  
+Iterated on a **Python forecasting script** that generated high- and low-end estimates for billable hours using **historical hourly contract data only**.  
+Fixed-price projects were excluded to maintain consistent modeling assumptions.  
+Forecast results were combined with real-time billing data to visualize client ROI and highlight variance within expected ranges.
+
+**Confidentiality Note:**  
+This visualization represents only the **portion of the dashboard that can be publicly shared**.  
+Due to **client data sensitivity**, financial sections showing revenue & campaign dollar values were cropped out.  
+The full dashboard included additional panels tracking cost per acquisition, print ad lead scoring, and marketing ROI components that cannot be displayed publicly.
+
+**Key Insights:**  
+- Enhanced transparency by showing clients how their billed hours align with modeled expectations.  
+- Communicated **ROI of 86.9%** (zero as breakeven) clearly and visually.  
+- Provided clients a clear view of billing variance without exposing sensitive financial data.
+
+**Deliverables:**  
+- Updated Python forecast script for new hourly engagements.  
+- Secure, client-facing dashboard visualizing ROI and billed-hour variance.
+
+![Client Engagement Financial Performance Dashboard (Cropped View)](assets/client_engagement_dashboard.png)
+:::
+
+::: {.project-card}
+## Diatech 2025 — Monte Carlo Revenue Forecast and Scenario Update
+**Role:** Consultant | **Stack:** Python, Excel, Tableau
+
+**Summary:**  
+Developed a **Monte Carlo simulation framework** to evaluate the feasibility of Diatech’s 2025 revenue target of **$4.4 M** under varying ad-spend and market conditions.  
+The analysis quantified risk and established statistically realistic revenue ranges aligned with industry performance trends.
+
+**Analytical Approach:**  
+- Ran **100,000 simulations** modeling ad spend from **$120 K–$700 K** with variable **ROAS multipliers (2× – 4×)** and external inputs such as supply-chain recovery, tariff impact, and special-market contributions.  
+- The **December 2024 model** showed a mean outcome near **$4.08 M** and only a **19 % probability** of hitting the $4.4 M goal, even under aggressive assumptions.  
+- The **May 2025 revision**, updated with real-world performance and macro inputs, projected a mean of **≈ $3.21 M** with **0 % probability** of achieving the target.  
+- The results demonstrated that the $4.4 M goal exceeded what was achievable within the industry’s historical CAGR and realistic ad-efficiency scenarios.
+
+**Key Insights:**  
+- The company’s growth target required external acceleration beyond organic performance.  
+- Statistical modeling provided leadership with evidence to recalibrate revenue goals to a **$3.2 M–$3.3 M** range.  
+- Highlighted the value of simulation modeling for **risk-adjusted strategic planning**.
+
+**Deliverables:**  
+- Python-based simulation scripts for ad-spend and revenue forecasting.  
+- Executive summary visuals comparing December and May scenarios.
+
+![Diatech 2025 Adjusted Forecast Comparison](assets/Updated_Scenario_Forecast.png)
+:::
